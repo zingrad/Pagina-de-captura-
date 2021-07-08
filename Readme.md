@@ -1,15 +1,16 @@
-# Dev Finances Project 
+# Pagina de Captura
 
-![dev_finance](https://user-images.githubusercontent.com/85195379/124947759-81e9fe00-dfe6-11eb-9342-893620ba8043.png)
+![pagina captura](https://user-images.githubusercontent.com/85195379/124954181-35a1bc80-dfec-11eb-941e-22545c501ddf.png)
+
+
 
 ## Introdução 
 
-#### Dev Finances uma aplicação financeira que ajuda a controlar os seus gastos diários
+#### Exemplo de página de captura muito utilizada no marketing digital para capturar E-mails com intuito de ter novas tentativas de ofecer o produto que foi procurado pelo usuario  
 
 ## Tecnologias Utilizadas
 
 * HTML
 * CSS
-* JavaScript
-* Tilt.js
+
   
